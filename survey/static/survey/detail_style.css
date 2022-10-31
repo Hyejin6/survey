@@ -1,0 +1,24 @@
+body {
+    background: white url("img/bg2.jpg") no-repeat;
+    background-position: right top;
+}
+
+h1 {
+    color : purple;
+    margin-left : 10px;
+}
+
+.buttons {
+    margin-top : 30px;
+    margin-left : 10px;
+    border:1px solid #ff0080
+    font-weight:bold;
+    color:#ff0080;
+    background-color : yellow;
+}
+
+.sel {
+    margin-top : 10px;
+    margin-left : 10px;
+
+}
